@@ -7,8 +7,5 @@ The sixth Andersen homework
 - DiffUtil doesn't use
 
 
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src=https://user-images.githubusercontent.com/86077011/147258217-b907b7fd-6fae-4ffb-9de2-5af2fd9a8de3.mp4 alt="Logo">
-  </a>
-  <p align="center">
+![device-2021-12-23-200302](https://user-images.githubusercontent.com/86077011/147259415-38a08138-dd13-44f0-a25b-990ac14e794d.gif)
+![device-2021-12-23-200416](https://user-images.githubusercontent.com/86077011/147259433-f91ee894-1fa3-4090-8936-f6aa535893cd.gif)
